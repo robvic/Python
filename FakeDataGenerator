@@ -1,5 +1,0 @@
-#Generating 10 column of values:
-c1 = [1,2,3,4,5,6,7,8,9,10]
-c2 = array()
-
-print(c1,c2)
